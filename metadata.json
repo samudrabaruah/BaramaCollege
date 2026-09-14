@@ -1,0 +1,6 @@
+{
+  "name": "Barama College - Official Portal",
+  "description": "Official responsive web portal for Barama College, Barama (Assam), featuring NAAC accreditation info, academic programs, integrated student portal, and dynamic CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
